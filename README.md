@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Urooj Baloch 
-- 👀 I’m interested in
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- 🌱 I’m currently learning BSAI in FAST NUCES KARACHI CAMPUS
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Scienc
+- 🌱 I’m currently pursuing my degree in BSAI at FAST NUCES KARACHI CAMPUS
 - 📫 How to reach me balochurooj2005@gmail.com
 - https://www.linkedin.com/in/urooj-baloch-991172293/
 - k230071@nu.edu.pk
